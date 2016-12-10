@@ -1,0 +1,42 @@
+html { 
+  background:black; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+
+div {
+  background-color: white;
+  font color: white; 
+  align-content: center;
+  font-family: sans-serif;
+}
+
+h1{
+
+font-size: 20px;
+}
+
+h3 {
+
+  background-color: black;
+  font color: white;
+  font-family: sans-serif;
+  font-size: 20px; 
+
+}
+
+p {
+  color: black;
+}
+
+blockquote {
+  color: black;
+  font-family: sans-serif;
+}
+
+a:hover { 
+  background-color: yellow;
+}
